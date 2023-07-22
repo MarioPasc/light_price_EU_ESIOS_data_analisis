@@ -34,6 +34,18 @@ Using matplotlib.pyplot, I created visualizations to present the average spot pr
 
 The analysis and visualizations revealed valuable insights into the electricity spot price trends in Reino Unido, Italia, Alemania, Francia, Paises Bajos, Portugal, Belgica, and España during the month of July. The project showcases the power of data analysis and visualization in understanding complex energy market dynamics.
 
+### Plots
+
+![Precio Luz Alemania](https://github.com/Mawio02/light_price_EU_ESIOS_data_analisis/blob/main/precioluz-Alemania.png)
+![Precio Luz Bélgica](https://github.com/Mawio02/light_price_EU_ESIOS_data_analisis/blob/main/precioluz-B%C3%A9lgica.png)
+![Precio Luz España](https://github.com/Mawio02/light_price_EU_ESIOS_data_analisis/blob/main/precioluz-Espa%C3%B1a.png)
+![Precio Luz Francia](https://github.com/Mawio02/light_price_EU_ESIOS_data_analisis/blob/main/precioluz-Francia.png)
+![Precio Luz Italia](https://github.com/Mawio02/light_price_EU_ESIOS_data_analisis/blob/main/precioluz-Italia.png)
+![Precio Luz Paises Bajos](https://github.com/Mawio02/light_price_EU_ESIOS_data_analisis/blob/main/precioluz-Pa%C3%ADses%20Bajos.png)
+![Precio Luz Portugal](https://github.com/Mawio02/light_price_EU_ESIOS_data_analisis/blob/main/precioluz-Portugal.png)
+![Precio Luz Reino Unido](https://github.com/Mawio02/light_price_EU_ESIOS_data_analisis/blob/main/precioluz-Reino%20Unido.png)
+
+
 # What i've learned
 
 ## Overview
