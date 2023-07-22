@@ -34,7 +34,7 @@ Using matplotlib.pyplot, I created visualizations to present the average spot pr
 
 The analysis and visualizations revealed valuable insights into the electricity spot price trends in Reino Unido, Italia, Alemania, Francia, Paises Bajos, Portugal, Belgica, and España during the month of July. The project showcases the power of data analysis and visualization in understanding complex energy market dynamics.
 
-# What i've learn
+# What i've learned
 
 ## Overview
 
