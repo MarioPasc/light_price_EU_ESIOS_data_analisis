@@ -46,7 +46,7 @@ def get_file_name(num):
 
 
 # region  Datos propios de la solicitud
-TOKEN = "015e8781f5ece93118fff662ab82dcfb41e3c001d8e63538dadb4c99256a3291"
+TOKEN = "your_token"
 headers = {
     'Accept': 'application/json; application/vnd.esios-api-v1+json',
     'Content-Type': 'application/json',
